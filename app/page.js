@@ -1,24 +1,22 @@
 /* eslint-disable no-unused-vars */
-import React from 'react';
-import GasketEmblem from '@gasket/assets/react/gasket-emblem.js';
-
-export const metadata = {
-  title: 'cms-dashboard',
-  description: 'An app to visualize the tracking of CMS content reduction, migration, and normalization.',
-  charset: 'UTF-8'
-};
-
-const pageStyle = { textAlign: 'center' };
-const logoStyle = { width: '250px', height: '250px' };
+import * as React from 'react';
+import Box from '@mui/material/Box';
+import Stack from '@mui/material/Stack';
+import PageLayout from './sitecore/page-layouts';
+import ComponentUpgradeRatio from './sitecore/component-upgrade-ratio';
+import DeprecatedPages from './sitecore/deprecated-pages';
+import LegacyComponents from './sitecore/legacy-components';
 
 function IndexPage() {
   return (
-    <div style={ pageStyle }>
-      <GasketEmblem style={ logoStyle } />
-      <h1>Welcome to Gasket!</h1>
-      <p>To get started, edit <code>app/page.js</code> and save to reload.</p>
-      <p><a href='https://gasket.dev'>Learn Gasket</a></p>
-    </div>
+    <Box sx={{ width: '100%' }}>
+      <Stack spacing={ 2 }>
+        <PageLayout />
+        <LegacyComponents />
+        <ComponentUpgradeRatio />
+        <DeprecatedPages />
+      </Stack>
+    </Box>
   );
 }
 
