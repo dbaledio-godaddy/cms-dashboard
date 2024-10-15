@@ -1,0 +1,572 @@
+[
+    {
+        "ID":  "{D425CEAB-2F92-44AF-A1A0-BE7C93557294}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/board/sigal-zarmi",
+        "Name":  "sigal-zarmi",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{D2A026C7-6BD9-476E-A584-5365019BFA9A}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/laura-messerschmitt",
+        "Name":  "laura-messerschmitt",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{B659A47C-4F9E-483A-AE20-E26E45ABC6FF}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/subscription/confirm",
+        "Name":  "confirm",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{F609088B-1F5A-48E2-B680-DE5F7001500C}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/imc/register",
+        "Name":  "register",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{C0D9EC25-0F4D-44E7-A950-5FA52E63C486}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/social/coupon",
+        "Name":  "coupon",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{A06F8881-8DF2-4A04-96C4-81292C849AE3}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/about",
+        "Name":  "about",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{9E66F853-C2B2-4E9D-AD6D-6F3C93814396}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/promos/india-sweepstakes",
+        "Name":  "india-sweepstakes",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{A798B188-90F3-4A76-AC6C-E8A4373DB7A8}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/whmcs",
+        "Name":  "whmcs",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{97F75E10-E962-450E-AEA0-9A8FF621BDED}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/community-and-nonprofit",
+        "Name":  "community-and-nonprofit",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{C6E88A18-13AA-42E3-8AE3-10B2C84DD4C1}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/education",
+        "Name":  "education",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{12675A1B-964D-4F7E-BCE7-8E2DECD2518B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/website-builder-for-designers",
+        "Name":  "website-builder-for-designers",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{92FF5DD0-9B39-4114-A3A6-15F0B1CABAD9}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/subscription/unsubscribe",
+        "Name":  "unsubscribe",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{4E2CE076-823B-499D-B0A3-D4559F3AEE53}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/contact-us/request-a-call-legacy",
+        "Name":  "request-a-call-legacy",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{5877024F-0D7F-4012-B5C1-B2FC8D83BCB4}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/board/brian-sharples",
+        "Name":  "brian-sharples",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{85EB1E05-202E-4B90-85A3-71219871B408}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/board/caroline-donahue",
+        "Name":  "caroline-donahue",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{91F99C8E-B093-4EEC-BA4A-B5F9BA4ABE9A}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/automotive-and-cars",
+        "Name":  "automotive-and-cars",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{E88E05EC-BE81-4081-8F8B-7DF1151F9086}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/board/leah-sweet",
+        "Name":  "leah-sweet",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{B382D9E3-8527-4A5E-9CFC-DEDBFE0B6319}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/construction",
+        "Name":  "construction",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{132B0C26-FF4A-41ED-A51F-C140E66FA204}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/websites-marketing",
+        "Name":  "websites-marketing",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{E4832ABB-7026-420C-A1BD-E3919E9628B4}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/godaddy-b1",
+        "Name":  "godaddy-b1",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{49DFDEAD-1519-4A69-B170-4C5631DBD50F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/paul-bindel",
+        "Name":  "paul-bindel",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{CFE68E63-2B08-4EA8-9579-5B53D2EC0824}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/pro/unsubscribe",
+        "Name":  "unsubscribe",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{D6994839-1DA4-4873-BF6F-4D228E8FEFC2}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/reseller-program/hosting",
+        "Name":  "hosting",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{E8DE9B43-ADCA-4C47-90D0-DF691C7DBCA2}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/auguste-goldman",
+        "Name":  "auguste-goldman",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{8FE03687-48BA-4163-B7B8-385F76F8358E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/imc/search",
+        "Name":  "search",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{DD8DEE5D-D103-41FC-98B7-CAE93EB2A9A4}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/gourav-pani",
+        "Name":  "gourav-pani",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{E5948142-FE2D-4DC4-B055-46657F573D30}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/board/charles-robel",
+        "Name":  "charles-robel",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{5E99D70E-EB6D-4B5E-9F89-C52246C85870}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/board/srinivas-tallapragada",
+        "Name":  "srinivas-tallapragada",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{9C9D980C-9763-418C-98C2-BE8A5E2A4343}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/arabic-website-builder/plans-and-pricing",
+        "Name":  "plans-and-pricing",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{73EC7F08-BB11-4066-A1D8-A71AF2B858F7}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes",
+        "Name":  "wordpress-themes",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{EACEE79E-DC44-4BE6-86FA-BEB3F0CCC23F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/promos/online-starter-bundle/nonbrand",
+        "Name":  "nonbrand",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{C1E3C58A-441B-4E29-8A41-F07C17F57CA3}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/redemption/paypal",
+        "Name":  "paypal",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{554E337A-319B-460E-BEFB-AC7CBDA2536E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/social/website",
+        "Name":  "website",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{566376FF-4E83-4A52-86DC-AEA8CE72F950}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/dominios/com-o-com-mx/brand",
+        "Name":  "brand",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{BCC7139C-4C5A-40B8-910E-B119CB31DD0F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/monica-bailey",
+        "Name":  "monica-bailey",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{4D6D7E85-D708-4568-8330-A76FA69E5A95}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/annual-returns",
+        "Name":  "annual-returns",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{B1163F42-AC59-4AC6-88D0-35557B2F0DEA}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/board/mark-garrett",
+        "Name":  "mark-garrett",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{4A306E6D-4795-4CE7-ACF1-5CF75B305ADE}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/restaurants-and-food",
+        "Name":  "restaurants-and-food",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{2EB1ECA8-ED5D-45AB-809B-26AF4380CD2D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/imc/website",
+        "Name":  "website",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{EF30610C-42BF-419C-9BEB-B3D86697197D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/home-services",
+        "Name":  "home-services",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{FBDB8A51-13F1-4896-8EEE-B3218A156964}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/imc/check-domain",
+        "Name":  "check-domain",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{710D0416-03DF-47FE-BEDB-A46AC4234A86}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/addcoupon/applied",
+        "Name":  "applied",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{200C7A4F-49DC-4964-99E2-8C0AB860D9E2}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/photo-credits",
+        "Name":  "photo-credits",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{6664A7BD-08A8-472D-AA92-0705F75C9097}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/board",
+        "Name":  "board",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{8E0B0BB5-8723-4C51-871B-5E1039C7663F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/redemption",
+        "Name":  "redemption",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{4B32EB16-8E3F-4B45-AFBC-260C487C09C1}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/transfers",
+        "Name":  "transfers",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{5D96916E-327C-424E-99CE-573020528BF4}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/fashion-and-beauty",
+        "Name":  "fashion-and-beauty",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{8BF9744A-1D2C-4863-96A9-24AFD147CC44}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/board/ryan-roslansky",
+        "Name":  "ryan-roslansky",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{DE12C2A8-A68C-4CD3-83CD-34336997DCDD}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/osama-bedier",
+        "Name":  "osama-bedier",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{145181F1-8B7F-40D7-A870-95284185AEE3}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/godaddy-com-cn",
+        "Name":  "godaddy-com-cn",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{2ECFF0AE-4D86-42EF-87CB-3EE19CD58368}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/real-estate",
+        "Name":  "real-estate",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{A39AF47E-EBF4-42BF-91FB-A7ECEAF338C5}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains",
+        "Name":  "domains",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{8A44EA1A-2B6C-47AA-9FDD-93F5990BBB9D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/board/herald-chen",
+        "Name":  "herald-chen",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{D1C6BDA3-5F3D-4B83-B784-EF3A109CA7A3}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/paul-nicks",
+        "Name":  "paul-nicks",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{6AC522F6-D41D-4ACF-8663-4F12A162EB14}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/godaddycom-new",
+        "Name":  "godaddycom-new",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{C91A1C5F-27E9-4D18-90A9-01E794C239AD}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/board/lee-wittlinger",
+        "Name":  "lee-wittlinger",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{6F67E122-0A7E-4422-A986-99ADD3375746}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership",
+        "Name":  "leadership",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{98D8323D-73FB-455A-A1EC-5184B090EA6C}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/mark-mccaffrey",
+        "Name":  "mark-mccaffrey",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{FE110B99-BEC0-4835-B48E-04F804C7D24C}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/michele-lau",
+        "Name":  "michele-lau",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{EF9C6445-385E-44FD-88E2-F9CA54706191}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/contact-us/request-a-call-legacy/thanks",
+        "Name":  "thanks",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{BBB126EB-FB17-46D7-903A-4C8ECDA71FD2}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/partners/domain-investors",
+        "Name":  "domain-investors",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{C35AD2BA-7E2C-4732-80F8-500753C6D26E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/charles-beadnall",
+        "Name":  "charles-beadnall",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{9B3CB5EC-F2DE-4F20-A49D-61870CD8F095}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/fara-howard",
+        "Name":  "fara-howard",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{2D719F22-CBFD-4824-9A91-DA05891C31AF}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/Rmvd from Web 10-9-24 Sales Folder/premium-hosting-support",
+        "Name":  "premium-hosting-support",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{878DC20C-E992-4922-8409-85487E9AF21F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/roger-chen",
+        "Name":  "roger-chen",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{B0068433-83B1-4D41-A69F-CF3AEA343A84}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/company/leadership/aman-bhutani",
+        "Name":  "aman-bhutani",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{9905A321-15BA-44A5-BB07-C332B127CD0E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/art-and-design",
+        "Name":  "art-and-design",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{B76B704F-C0D8-4CC6-9C61-E52A7B18EFCF}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/business-hosting",
+        "Name":  "business-hosting",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{947E7610-0002-49CB-9140-0633CEC725FA}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/catalog",
+        "Name":  "catalog",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{C24AB74C-EB7B-4D83-AFAC-881D1B9037F7}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/godaddy-b",
+        "Name":  "godaddy-b",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{1A0F039D-6D8B-4A28-8CEC-52696B9C3F6C}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/addcoupon",
+        "Name":  "addcoupon",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{EA690D1B-30FF-4EEC-8A9E-523351FA8594}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/affiliates/truic",
+        "Name":  "truic",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{F8E463A2-85A7-40F3-B7D8-8A6DCB505ED9}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/domain-appraisal",
+        "Name":  "domain-appraisal",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{BD092595-D9BC-45D4-9200-69217232CA25}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/free-dpp",
+        "Name":  "free-dpp",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{B85EA1B9-8F9A-486C-B4E3-421E64AAE6C6}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/gocentral-offer",
+        "Name":  "gocentral-offer",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{ACA7A805-615B-40C3-AD50-46C1653F331F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/gocentral-offer/brand",
+        "Name":  "brand",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{06165DF6-F20C-4C40-900E-B01F61E22116}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/godaddy-b/cnfos",
+        "Name":  "cnfos",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{2C453197-D74A-4E6B-BED4-F79FA902774C}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/imc/buy-domain",
+        "Name":  "buy-domain",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{A298807A-72B1-4FC0-8018-7E697D2B1A57}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/imc/find-domains",
+        "Name":  "find-domains",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{3EF3666D-2C23-4F30-B63C-57A653CC4FA9}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/imc/godaddy-domains",
+        "Name":  "godaddy-domains",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{2F42EB79-441F-49AC-921F-2DB55C666FE2}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/imc/purchase",
+        "Name":  "purchase",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{2F5EB5A9-E84F-4B79-ABB0-96CEE6C6637F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/dominio-internet",
+        "Name":  "dominio-internet",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{FA2F6DAD-0122-47D9-9B4E-6A18818D2DA7}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/tldimages",
+        "Name":  "tldimages",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{F3B7A0F9-AB1D-4232-A79A-B4DB45B337AF}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/dominios/com-o-com-mx/nonbrand",
+        "Name":  "nonbrand",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{72F9CCE3-AEB7-4B23-9DAC-94DC2C7C2C0D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/promos/online-starter-bundle",
+        "Name":  "online-starter-bundle",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{5D40B4DA-3F5E-4AA0-9D6F-CAA9D625D52E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/pro-subscription",
+        "Name":  "pro-subscription",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{B3F1F25D-6543-436F-9C1B-7B6CE57A7E18}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/contact-us",
+        "Name":  "contact-us",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{8E2883C5-A469-4EBE-8F27-83EA18FC0763}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/professional-services",
+        "Name":  "professional-services",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{4E7C06FD-6AB8-452B-9D21-22901A540864}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/health-and-fitness",
+        "Name":  "health-and-fitness",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{B1E7EC91-2917-4467-A1EC-9F95517036CA}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/sports-and-outdoors",
+        "Name":  "sports-and-outdoors",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{CFEBFC6F-E2C1-48B7-AF7D-73682867D59F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress-themes/online-store",
+        "Name":  "online-store",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{36F9A32C-2D49-454D-8861-6BBBB3EFB21C}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/support",
+        "Name":  "support",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{9B62D8C9-FE39-4AFE-B4FD-CCFC89CDD433}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/website-builder",
+        "Name":  "website-builder",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{7A425CFF-83F1-4581-BD91-BB3F5119327B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/godaddy-com-new",
+        "Name":  "godaddy-com-new",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    },
+    {
+        "ID":  "{E62BE591-962C-49AA-8C1D-A159698942D7}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/promos/online-starter-bundle",
+        "Name":  "online-starter-bundle",
+        "PageLayout":  "Full Screen Desktop -Deprecated-"
+    }
+]

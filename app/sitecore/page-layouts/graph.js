@@ -11,7 +11,7 @@ import {
   Tooltip,
   Legend
 } from 'chart.js';
-import { lineChartData } from './data/data1.js';
+import { lineChartData } from './data';
 
 ChartJS.register(
   CategoryScale,
@@ -23,7 +23,7 @@ ChartJS.register(
   Legend
 );
 
-export const Graph1 = () => {
+export const Graph = () => {
   const options = {};
 
   return <Line options={ options } data={ lineChartData } />;
