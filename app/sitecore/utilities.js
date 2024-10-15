@@ -7,6 +7,7 @@ export function getJsonFiles(relativePath) {
   return new Promise((resolve, reject) => {
     fs.readdir(absolutePath, (error, files) => {
       if (error) {
+        /* eslint-disable-next-line no-console */
         console.error('Error reading folder:', error);
         reject(error);
       }
@@ -18,26 +19,21 @@ export function getJsonFiles(relativePath) {
 }
 
 
-export function readJsonFile(relativeFilePath) {
-  const absolutePath = path.resolve(process.cwd(), relativeFilePath);
-  // const filePath = path.join(absolutePath, relativeFilePath);
+export function readJsonFile(relativePath) {
+  const absolutePath = path.resolve(process.cwd(), relativePath);
 
-  fs.readFile(absolutePath, 'utf8', (err, data) => {
-    if (err) {
-      /* eslint-disable-next-line no-console */
-      console.error('Error reading file:', err);
-      return null;
-    }
+  return new Promise((resolve, reject) => {
+    fs.readFile(absolutePath, 'utf8', (error, data) => {
+      if (error) {
+        /* eslint-disable-next-line no-console */
+        console.error('Error reading file:', error);
+        reject(error);
+      }
 
-    try {
       const jsonData = JSON.parse(data);
       const dataArray = jsonData.map(item => item);
-      return dataArray;
-    } catch (error) {
-      /* eslint-disable-next-line no-console */
-      console.error('Error parsing JSON:', error);
-      return null;
-    }
+      resolve(dataArray);
+    });
   });
 }
 
@@ -57,5 +53,12 @@ export function extractDateFromFilename(filename) {
   /* eslint-disable-next-line no-console */
   console.error('Encountered error extracting a date from file:', filename);
   return null;
+}
+
+export function pushToArray(array, value) {
+  if (!array.includes(value))
+    array.push(value);
+
+  return array;
 }
 

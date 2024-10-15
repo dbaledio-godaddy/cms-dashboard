@@ -1,7 +1,8 @@
 import * as React from 'react';
-import { Graph } from './graph';
+import { LineGraph } from './graph';
 import Section from '../../common/section';
-import { getJsonFiles, readJsonFile } from '../utilities';
+import { getJsonFiles, readJsonFile, extractDateFromFilename, pushToArray } from '../utilities';
+import { pageLayoutLabelMap, pageLayoutColorMap, pageLayoutDataModel } from './data-dupe';
 
 const cms = 'SITECORE';
 const title = 'PAGE LAYOUTS';
@@ -9,35 +10,48 @@ const title = 'PAGE LAYOUTS';
 const description = 'Tracks instances of pages using the following layouts: PL Stacked Header, Stacked Header, Full Screen Desktop. Excludes the following paths of the content tree: TLD, Legal, Market-Demo.';
 const relativeRootPath = 'app/sitecore/page-layouts/datasets';
 const datasetFolders = ['full-screen-desktop', 'other', 'pl-stacked-header', 'sales', 'stacked-header'];
-// Red: RGBA(255, 0, 0, 1)
-// Blue: RGBA(0, 0, 255, 1)
-// Green: RGBA(0, 255, 0, 1)
-// Purple: RGBA(128, 0, 128, 1)
-// Orange: RGBA(255, 165, 0, 1)
-
 
 
 async function fetchData() {
   try {
+    const dates = [];
+
     datasetFolders.map(async (datasetFolder) => {
       const jsonFiles = await getJsonFiles(`${ relativeRootPath }/${ datasetFolder }`);
+      const instanceCount = [];
 
-      console.log('jsonFiles:', jsonFiles);
+      // console.log('jsonFiles:', jsonFiles);
 
-      jsonFiles.forEach((file) => {
-        const data = readJsonFile(`${ relativeRootPath }/${ datasetFolder }/${ file }`);
-        console.log('data:', data);
+      jsonFiles.forEach(async (file) => {
+        const date = extractDateFromFilename(file);
+        pushToArray(dates, date);
+
+        const data = await readJsonFile(`${ relativeRootPath }/${ datasetFolder }/${ file }`);
+        instanceCount.push(data.length);
       });
+
+      const dataset = {
+        label: pageLayoutLabelMap[datasetFolder],
+        data: instanceCount,
+        borderColor: pageLayoutColorMap[datasetFolder]
+      };
+
+      pageLayoutDataModel.datasets.push(dataset);
     });
+
+    pageLayoutDataModel.labels = dates;
+    console.log('pageLayoutDataModel:', pageLayoutDataModel);
   } catch (error) {
-    console.error('An error occurred:', error);
+    /* eslint-disable-next-line no-console */
+    console.error('Encountered an error while fetching the data:', error);
   }
 }
 
-fetchData();
+await fetchData();
+
 
 export default function PageLayout() {
   return (
-    <Section cms={ cms } title={ title } description={ description } Graph={ Graph }/>
+    <Section cms={ cms } title={ title } description={ description } Graph={ LineGraph }/>
   );
 }
