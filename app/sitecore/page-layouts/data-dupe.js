@@ -58,7 +58,7 @@ export async function fetchData() {
     }
 
     pageLayoutDataModel.labels = dates;
-    console.log('pageLayoutDataModel:', pageLayoutDataModel); // debug
+    // console.log('pageLayoutDataModel:', pageLayoutDataModel); // debug
     return pageLayoutDataModel;
   } catch (error) {
     /* eslint-disable-next-line no-console */
