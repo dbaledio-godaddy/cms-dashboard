@@ -9,7 +9,7 @@ function CardWrapper({
   cms,
   title,
   description,
-  Graph
+  graph
 }) {
   return (
     <React.Fragment>
@@ -28,7 +28,7 @@ function CardWrapper({
           </Box>
           <Divider />
           <Box sx={{ p: 2 }}>
-            { Graph && <Graph /> }
+            { graph }
           </Box>
         </CardContent>
       </Card>
@@ -40,11 +40,11 @@ export default function Section({
   cms,
   title,
   description,
-  Graph
+  graph
 }) {
   return (
     <Box sx={{ minWidth: 275 }}>
-      <CardWrapper cms={ cms } title={ title } description={ description } Graph={ Graph }/>
+      <CardWrapper cms={ cms } title={ title } description={ description } graph={ graph }/>
     </Box>
   );
 }

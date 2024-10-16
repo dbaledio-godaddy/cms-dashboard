@@ -23,7 +23,7 @@ ChartJS.register(
   Legend
 );
 
-export const LineGraph = ({ data }) => {
+export default function LineGraph({ data }) {
   const options = {};
 
   return <Line options={ options } data={ lineChartData } />;
