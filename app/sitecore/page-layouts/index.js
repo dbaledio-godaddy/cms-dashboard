@@ -12,7 +12,7 @@ const description = 'Tracks instances of pages using the following layouts: PL S
 
 export default async function PageLayout() {
   const data = await fetchData();
-  console.log('data:', data); // debug
+  // console.log('data:', data); // debug
 
   return (
     <Section cms={ cms } title={ title } description={ description } graph={ <LineGraph data={ data }/> }/>
