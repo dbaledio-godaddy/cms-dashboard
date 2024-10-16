@@ -18,7 +18,6 @@ export function getJsonFiles(relativePath) {
   });
 }
 
-
 export function readJsonFile(relativePath) {
   const absolutePath = path.resolve(process.cwd(), relativePath);
 
