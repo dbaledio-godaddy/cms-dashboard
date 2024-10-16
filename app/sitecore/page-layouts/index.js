@@ -1,8 +1,8 @@
 import * as React from 'react';
 import LineGraph from './graph';
 import Section from '../../common/section';
-import { fetchData } from './data-dupe'
-import { lineChartData } from './data';
+import { fetchData } from './data'
+import { fakeData } from './fake-data';
 
 const cms = 'SITECORE';
 const title = 'PAGE LAYOUTS';
@@ -12,9 +12,9 @@ const description = 'Tracks instances of pages using the following layouts: PL S
 
 export default async function PageLayout() {
   const data = await fetchData();
-  // console.log('data:', data); // debug
+  console.log('data:', data); // debug
 
   return (
-    <Section cms={ cms } title={ title } description={ description } graph={ <LineGraph data={ lineChartData }/> }/>
+    <Section cms={ cms } title={ title } description={ description } graph={ <LineGraph data={ data }/> }/>
   );
 }

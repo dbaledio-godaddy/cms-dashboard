@@ -11,7 +11,6 @@ import {
   Tooltip,
   Legend
 } from 'chart.js';
-import { lineChartData } from './data';
 
 ChartJS.register(
   CategoryScale,
@@ -26,5 +25,5 @@ ChartJS.register(
 export default function LineGraph({ data }) {
   const options = {};
 
-  return <Line options={ options } data={ lineChartData } />;
+  return <Line options={ options } data={ data } />;
 };
