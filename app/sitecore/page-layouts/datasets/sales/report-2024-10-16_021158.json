@@ -1,0 +1,20 @@
+[
+    {
+        "ID":  "{9F9FA2D0-B4F8-4AAC-815F-43CFFA842D16}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/Agreements/Privacy",
+        "Name":  "Privacy",
+        "PageLayout":  "Sales -Deprecated-"
+    },
+    {
+        "ID":  "{8A08FDEC-998A-482D-A9E8-9F72F998E8B0}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/Agreements/ShowDoc",
+        "Name":  "ShowDoc",
+        "PageLayout":  "Sales -Deprecated-"
+    },
+    {
+        "ID":  "{4A1243A7-B3F4-4571-A672-681760B246DB}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/legacyproducts/wsb7",
+        "Name":  "wsb7",
+        "PageLayout":  "Sales -Deprecated-"
+    }
+]

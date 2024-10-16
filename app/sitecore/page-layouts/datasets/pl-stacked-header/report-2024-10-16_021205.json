@@ -1,0 +1,1370 @@
+[
+    {
+        "ID":  "{34EC7FA6-CC11-45C5-B0E2-FBC82F398A06}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/wordpress-hosting",
+        "Name":  "wordpress-hosting",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{9D099F0F-1106-478C-BA4D-8671D26BB2F8}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/account/create/pro",
+        "Name":  "pro",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{E083CEC3-D4C3-4D4E-A991-3EF177DF7A7C}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/whois-b",
+        "Name":  "whois-b",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{68055E13-751E-48D3-A0A3-E58FBD2FC6ED}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/account/create/dms",
+        "Name":  "dms",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DB2A0378-CDD9-4C85-8C85-982F19E1543E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/home",
+        "Name":  "home",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{E4D53EE5-4D8C-4DC2-A398-DA36CABB4E49}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/premium-dns",
+        "Name":  "premium-dns",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{E2DA1221-FFD1-43D5-AB9A-B6734AFB96D7}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/airo-domain",
+        "Name":  "airo-domain",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{7AE998DA-04D1-4C25-B486-595956357168}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/invoicing",
+        "Name":  "invoicing",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{3DC615E3-63B0-487D-AB1A-FB1F4295F4DF}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/cheap-web-hosting",
+        "Name":  "cheap-web-hosting",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{808F195A-C0DC-4C58-9DDD-CD80C33443DE}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/point-of-sale/purchase",
+        "Name":  "purchase",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{61F29575-73C3-44C8-B4C0-C60520E5D23B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/email/professional-email",
+        "Name":  "professional-email",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{99818FBD-1E8A-49D7-A04B-9B56747C588B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/payable-domains",
+        "Name":  "payable-domains",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{E899B3FC-6FE8-45F5-A3C6-72E37B6D0477}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/scratch-next-steps",
+        "Name":  "scratch-next-steps",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{59C4278E-79DC-4EC4-A2B3-BE3EB273D754}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domain",
+        "Name":  "domain",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{977A1000-1A15-445F-B3C0-F820716277F3}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/vps-hosting",
+        "Name":  "vps-hosting",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{F72E0F43-78A7-480A-8378-A1CB7E4BEFE9}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/pay-links",
+        "Name":  "pay-links",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{AFB072D1-8432-40AA-899B-2E664A937561}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/godaddy-for-good/news",
+        "Name":  "news",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D12DB984-6984-4FAF-9CCA-629B65501DC9}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/best-ecommerce-website-builder/onboarding",
+        "Name":  "onboarding",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{51BAAB48-A9D6-4718-BCDD-C3E221A58E90}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/site-search-page-test",
+        "Name":  "site-search-page-test",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{8C092F6B-7B4A-4AF4-8F74-0130C86E6890}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/online-marketing/seo-services",
+        "Name":  "seo-services",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{86A98171-0B7C-4CC5-9549-FC07C2991E5D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/conversations",
+        "Name":  "conversations",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{81FF264E-8B45-46BF-9F02-8339A86AD448}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/web-security/website-backup",
+        "Name":  "website-backup",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{F1B7C374-658E-46C3-BC1D-E38870CE3413}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/automotive",
+        "Name":  "automotive",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{81058A42-FDB1-40D0-8D98-D8D2337CD6BD}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/visit/locations/Kirkland",
+        "Name":  "Kirkland",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{2F71FD4D-A676-4ABC-9915-D86786A8E9E3}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domains/cheap-domain-names",
+        "Name":  "cheap-domain-names",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{8080AB7E-6A29-46F1-B8C3-6A6145A605C4}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/airo/airo-speedofai",
+        "Name":  "airo-speedofai",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{F6E0F09A-3CFB-49BB-8846-1736EA4EC2B8}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/empty-cart",
+        "Name":  "empty-cart",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DE537B0F-B293-4250-A579-2B648CC081F4}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/account/create/whatsapp",
+        "Name":  "whatsapp",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{2BDBAE68-2081-4201-B426-6DF181CF520B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/made-in-america/season-5",
+        "Name":  "season-5",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{103220BB-329F-49E4-A6EE-C4ADD69BFADF}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/airo",
+        "Name":  "airo",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{00C7D718-B533-4C2F-BA4D-9A2F3B30A292}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/online-store/selectplan/build",
+        "Name":  "build",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{5665926B-3BE2-4A39-B6C8-98E0DEB262D7}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/ssl-certificate/ssl-selector",
+        "Name":  "ssl-selector",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{9D49F2D6-0781-4104-9A86-B25DC2025129}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/godaddy-for-good/volunteerism",
+        "Name":  "volunteerism",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{50C4B396-858B-45A8-BD3D-C9D2593DA6E2}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/made-in-america/season-3",
+        "Name":  "season-3",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DE48F080-1D19-4246-87CF-71B29265F07A}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/subscriptions",
+        "Name":  "subscriptions",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{1A277C69-5F25-4A0E-8AD9-3359A06112D7}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/domain-generator",
+        "Name":  "domain-generator",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{C9FC7F5D-0724-4629-89CB-938FC2E86D75}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/email/business-email-domain-bundle",
+        "Name":  "business-email-domain-bundle",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{CD737CCC-08E6-49CE-AE8B-878569656953}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/web-security/ev-ssl-certificate",
+        "Name":  "ev-ssl-certificate",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DEBB49C2-DE56-45BB-BE67-BFA8BD6710F8}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/web-security/ov-ssl-certificate",
+        "Name":  "ov-ssl-certificate",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{43A3ECCC-51CE-4C5E-B1A2-61FBA8255221}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/gtlds/godaddyregistry",
+        "Name":  "godaddyregistry",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{1E78DF36-D78F-4A6B-826C-6B16E9E8968E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/compare-domain-registrars",
+        "Name":  "compare-domain-registrars",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{A529CC87-8FB9-464A-836A-333147F46823}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/email/ox-email-domain-bundle",
+        "Name":  "ox-email-domain-bundle",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{183856A2-D61C-4DC8-B223-C51183747DAA}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/mediatemple",
+        "Name":  "mediatemple",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D28610CA-EF95-42E4-8910-9261956448C6}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/visit/locations/Beeston",
+        "Name":  "Beeston",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{5C5E7ACA-F958-40C3-9EC2-0A0BAA406510}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/promos/flash-sale/promotions",
+        "Name":  "promotions",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{CAA33D03-4002-46C0-968A-0C7FE927208A}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/premier-business-support/care",
+        "Name":  "care",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{FC750AB2-3AC5-45C3-84ED-4CDC78D75D68}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/trust-center",
+        "Name":  "trust-center",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{9F04915E-DC50-44DA-921A-EA49D20D0638}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domains/domain-name-generator",
+        "Name":  "domain-name-generator",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{6E52655E-D93E-4D55-A70D-319DDC497736}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/online-marketing/digital-marketing",
+        "Name":  "digital-marketing",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{3BA52D27-B257-43C8-8448-31D7AABDDF9D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/made-in-america",
+        "Name":  "made-in-america",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{B4163D08-49F1-439D-90CB-8ADDF4496DAD}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/sell/marketplaces/onboarding",
+        "Name":  "onboarding",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{719D9A8A-4076-4288-9FFD-DD4FD07E70CC}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/home-services",
+        "Name":  "home-services",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D696C886-97F2-42E4-9E8E-06C23358DE80}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/visit/locations/Tempe",
+        "Name":  "Tempe",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{7DEE9C85-70FC-4F51-BE0F-64285073A548}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/pricing/subscription-essentials",
+        "Name":  "subscription-essentials",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{1D7BE240-698D-4805-9BF9-00D623EDFD54}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/instant-video-editor",
+        "Name":  "instant-video-editor",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{64EC36D8-DB15-402A-9185-8EC8BDABC171}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/godaddy-for-good/sustainability",
+        "Name":  "sustainability",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DBBB3C5D-562D-411E-941D-4D5E9C206FD9}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/studio",
+        "Name":  "studio",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{1B9FEF54-E416-4B16-BE1B-4FCD16F5C14D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/online-store/onboarding",
+        "Name":  "onboarding",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{9A6E1A4C-828D-45E0-AE77-97BE337AEBE2}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/best-payment-processors",
+        "Name":  "best-payment-processors",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D0020557-A5D5-42F9-8392-92E1F71598D0}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/best-web-hosting",
+        "Name":  "best-web-hosting",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{8992A14E-A141-4014-80B9-E6BD07E98F80}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/card-reader/purchase",
+        "Name":  "purchase",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{4E517E1C-D248-4101-976B-FBF0865B08DB}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/sell-anywhere",
+        "Name":  "sell-anywhere",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{8363ED9D-6B3C-4A71-89BD-3EE36D256223}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/trust-center/security",
+        "Name":  "security",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{6996477D-9738-41ED-B01E-7E3B08DB0EE8}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/become-a-partner",
+        "Name":  "become-a-partner",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{5E732B48-074F-4612-BA3A-567CC7DB114B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/pricing/subscription-starter",
+        "Name":  "subscription-starter",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{2230A013-4141-4650-8DF0-27E2C1380E3A}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/health-fitness",
+        "Name":  "health-fitness",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{BA565D2E-F2D9-48CD-9A23-3FCBEAF65BF7}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/ssl-certificate/ssl-selector/ssl-picker",
+        "Name":  "ssl-picker",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{FC8828DF-6119-427F-B815-F90C7AACA624}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/onboarding",
+        "Name":  "onboarding",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{EF14BD38-2FDD-48DE-8526-7352A16649AC}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/hosting",
+        "Name":  "hosting",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{9EE2B03A-1258-4F22-9221-FAB1ED1D5824}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/tap-to-pay",
+        "Name":  "tap-to-pay",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{10AF7D69-307E-4EEC-AE54-277664E70ECF}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/pricing/subscription-commerce",
+        "Name":  "subscription-commerce",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{FC90DFA1-BC0E-440F-8493-0EFDCCE26DA6}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/web-security/easy-ssl-service",
+        "Name":  "easy-ssl-service",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{B5E5C879-C8A7-4CFC-9A94-03DE271B7A51}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/personal",
+        "Name":  "personal",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{F1C54BEB-7F5E-456C-8D24-91CD615F41AF}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/best-website-builder/onboarding",
+        "Name":  "onboarding",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{48072574-6442-402D-8D13-3CB8602161C4}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/brand/repeat",
+        "Name":  "repeat",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{16703EFB-EA47-420A-943C-C3DD6B934391}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/email/professional-business-email/OX email",
+        "Name":  "OX email",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{BDE4D31F-9D84-4CB3-8859-CF964DCE3C45}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/point-of-sale/restaurants",
+        "Name":  "restaurants",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{CCE40500-C708-4AD4-831D-EC6C3EA20414}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/godaddy-404",
+        "Name":  "godaddy-404",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{E085829D-D678-4DAE-AA50-076F89018E66}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/websites-marketing/online-store-slp",
+        "Name":  "online-store-slp",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D8E71DA5-BC7A-4AE2-8831-2393D6B6CB92}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/airo",
+        "Name":  "airo",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{AE2A6D0A-E343-4E87-A880-634CECE6467B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/connect-grow-online",
+        "Name":  "connect-grow-online",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D85262DE-3522-45C2-8265-6B85866EFE5E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/visit/locations/Hurth",
+        "Name":  "Hurth",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{15D7D130-5866-4B23-B5BF-DA8E569E707A}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/professional-services",
+        "Name":  "professional-services",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{5190B51F-B12A-40A6-BE48-A9AEDA75DCF7}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/payments/point-of-sale",
+        "Name":  "point-of-sale",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{7CDE3B05-2C01-48C6-A918-EB667B2BA34D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/trust-center/privacy",
+        "Name":  "privacy",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{B6779A39-AE0D-47F2-944B-4373E83649F6}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/brand/plus",
+        "Name":  "plus",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{B680D8C2-8672-4DAA-8935-F7B26B5EBA60}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domains/domain-broker",
+        "Name":  "domain-broker",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{6D24F95A-3B55-4442-B1F7-2F2172295B90}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/ssl-certificate/ssl-selector/ssl-plan",
+        "Name":  "ssl-plan",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{ABB14F54-FCE5-400F-8208-3B11D259B29B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domains/discount-domain-club",
+        "Name":  "discount-domain-club",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DDBB22A7-3965-4012-808C-BF37BF70593A}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/music",
+        "Name":  "music",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{BB9B9B6A-28A6-4287-BF10-DECB8563828B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/plans-and-pricing",
+        "Name":  "plans-and-pricing",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{2676C018-9340-4CCA-96DE-18FF61EB354A}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/build",
+        "Name":  "build",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{546952A1-2C5B-47E6-949D-12AA6E3BB2A0}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/sell/marketplaces",
+        "Name":  "marketplaces",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{EC82D922-1FA3-4BB4-9304-8FC2FAFA05E8}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/web-security/wildcard-ssl-certificate",
+        "Name":  "wildcard-ssl-certificate",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{AD020A61-C53D-48D5-8462-3FD7AD538B10}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/payments/best-pos-systems",
+        "Name":  "best-pos-systems",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{480A9B36-BFE8-4F93-8BE5-C7FC3FB48817}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/whois",
+        "Name":  "whois",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{7CB1F0EC-2F2C-4E69-8DD0-12668286E138}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/gtlds/radix",
+        "Name":  "radix",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{253F6860-0628-4FF9-85EC-A5451D9F26F8}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/web-security/ssl-certificate",
+        "Name":  "ssl-certificate",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{5D87E5B8-CCD1-416D-84FC-DB23B66FF9F7}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/community",
+        "Name":  "community",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{AF8A2643-1DFF-4A0F-A5B2-1442C1D1BC82}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/payments",
+        "Name":  "payments",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{2616727B-93E2-4D7D-92E4-9D536E44BD00}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/tap-to-pay-on-iphone",
+        "Name":  "tap-to-pay-on-iphone",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{C1787521-190B-443A-BAE5-4D754F6B2C12}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/promos/bundle-deals/online-starter-bundle",
+        "Name":  "online-starter-bundle",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{A6C659A7-5386-40C1-AB19-A67ECF89013D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/card-reader",
+        "Name":  "card-reader",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{0AA7E1E1-3888-4781-BB66-1CA79BB2431B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/email/professional-business-email",
+        "Name":  "professional-business-email",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{281113CC-9333-46C3-B3D4-425FFF1DCE8C}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/website-builder/website",
+        "Name":  "website",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{3A693AC9-0D28-4B20-AF68-6C2E48BD9550}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/ai-for-small-businesses",
+        "Name":  "ai-for-small-businesses",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{B38B2D57-B44D-4006-8313-83CDC0E5DA50}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting-solutions",
+        "Name":  "hosting-solutions",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{4886AC57-84F7-45A2-B5B8-3DC2846C0AA5}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/web-hosting/SelectPlan",
+        "Name":  "SelectPlan",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{642187F1-DC4C-4893-88E4-45EDE20FE00F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/card-reader/specs",
+        "Name":  "specs",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{543AEEFC-73BB-4E2C-9473-3396A1477A30}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/business-name-generator",
+        "Name":  "business-name-generator",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{74DFB190-2121-472B-8A66-5E3E5740677A}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/email/email-domain-woocommerce",
+        "Name":  "email-domain-woocommerce",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{E4B04A10-8367-4A9A-AE44-3975D308675F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/email/secure-email",
+        "Name":  "secure-email",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{AE0C975D-9DD6-4AE9-8265-42A9E2BB9C60}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/website-builder/website/build",
+        "Name":  "build",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{5C9A2D51-AD4C-491B-9820-AFD7B1763C58}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/website-builder/selectplan/build",
+        "Name":  "build",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DC8391BB-0B55-4189-A850-689E58CCA898}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domains/full-domain-privacy-and-protection",
+        "Name":  "full-domain-privacy-and-protection",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{59F992E3-F967-43D2-B4B0-0BC20F89C541}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/godaddy-for-good/impact",
+        "Name":  "impact",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D43D3A2F-63ED-49E0-9C76-03C27F99A6FE}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments",
+        "Name":  "payments",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{608A198B-F8B1-4E77-9429-A1E838B65982}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/web-security",
+        "Name":  "web-security",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{73B4A291-5DA7-4FD5-B813-8DCCBA96AC9D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/pricing",
+        "Name":  "pricing",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{249FCF58-BA5B-4CDB-AED0-2E834476E6D5}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/affiliates/BNG",
+        "Name":  "BNG",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{F64EFFF2-2244-4D2A-8B9A-5BE131FE5EBA}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domains/domain-transfer",
+        "Name":  "domain-transfer",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{4E49E84A-0650-4F44-9E31-C7FC0DE2F0D5}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/website-builder",
+        "Name":  "website-builder",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{A8D8CB6A-50B6-461E-B137-43095CF0DCFA}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/buy-domain",
+        "Name":  "buy-domain",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{BB870364-F9B3-4540-A726-C13D725C4CC5}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/web-security/ssl-certificate/selectplan",
+        "Name":  "selectplan",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{8354990B-503F-402E-8414-6C21E8982220}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/made-in-america/season-2",
+        "Name":  "season-2",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{371B7068-04D3-4333-A28B-3418A97D41AA}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites",
+        "Name":  "websites",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{F003D4BD-7A52-44A8-A074-678B1465F4F1}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/email/email-migration",
+        "Name":  "email-migration",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{9B3DA627-230F-4DF4-8FB2-FEAF9935304C}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hire-an-expert",
+        "Name":  "hire-an-expert",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{6A093342-134A-4C1F-A365-72441A11E75B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domains/affiliates",
+        "Name":  "affiliates",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{E5FA3B6F-B2C6-4B85-AA77-45CD7BE0EE11}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/email",
+        "Name":  "email",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{4560AD8A-EE32-482F-A4FF-39247E90D4B5}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/photography",
+        "Name":  "photography",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{64BFD227-EF0E-4D0B-B530-291E5EDE4818}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/art",
+        "Name":  "art",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{5D5DF7FE-0E5F-4E57-AAA8-9105D2082729}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/made-in-america/season-4",
+        "Name":  "season-4",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{8577761B-0ED3-41E3-806F-53580A021BD0}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/website-builder/build",
+        "Name":  "build",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{F5B331C5-21F7-4BF2-9972-0106D4CEFF69}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domains/domain-investing",
+        "Name":  "domain-investing",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{B123D179-8672-4CE3-9D43-425F79916337}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/web-hosting",
+        "Name":  "web-hosting",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{1A42BAEF-014D-4DC8-9C16-A7E64BE0C73D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/email/email-archiving",
+        "Name":  "email-archiving",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{C2941516-0903-416A-8C78-69116C230BEA}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/Rmvd from Web 10-9-24 Sales Folder/fully-managed-dedicated-server",
+        "Name":  "fully-managed-dedicated-server",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{E204CB3D-F83A-4C84-BA1C-7CC05F5A869D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/fully-managed-dedicated-server-plans",
+        "Name":  "fully-managed-dedicated-server-plans",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{6A51F73A-82A8-43EC-9C89-80169C9E0F09}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/sell/onboarding",
+        "Name":  "onboarding",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DC22138E-EE60-4647-A07A-3785AC73EF7E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domains/domain-protection",
+        "Name":  "domain-protection",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D1B76991-204E-4F9C-9760-32B43E623C6B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/flex-terminal/specs",
+        "Name":  "specs",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D2E95FE4-9A6B-4854-B2C4-5E58F41E7157}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/vps-hosting/selectplan",
+        "Name":  "selectplan",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{EFF5DFEB-6F81-4571-82DC-F81CB7B6B6AA}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domain-value-appraisal",
+        "Name":  "domain-value-appraisal",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{7DA39BEF-2EDC-4084-9BC8-B7EDABC2A105}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/online-store/selectplan",
+        "Name":  "selectplan",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D6D1448E-F8F3-4964-8380-0739B809CA00}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/email/ox-professional-email",
+        "Name":  "ox-professional-email",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{CAC48CE0-1219-417C-83FD-C5F4B418B424}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/ssl-certificate",
+        "Name":  "ssl-certificate",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{313DB859-7631-4107-9C22-A31091353F6B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/website-builder/selectplan",
+        "Name":  "selectplan",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{C09B986B-D6E1-401F-9BDE-2B0FB70C76A6}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/wordpress-hosting/selectplan",
+        "Name":  "selectplan",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{1272E7C5-87FB-43ED-B35F-AF2BA6B2D76D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/business/office-365/selectplan",
+        "Name":  "selectplan",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D420DD3C-651E-475B-8F88-BEF5BE6749A7}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domains/cashparking",
+        "Name":  "cashparking",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{E1F0A9EF-7B1B-4441-8871-929A099F77F8}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/web-security/website-security",
+        "Name":  "website-security",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{81906003-F3ED-4520-9571-1D546EB3743E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/wordpress/premium-support",
+        "Name":  "premium-support",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{7FCD2946-B02C-412F-8CF6-EC751CB0CE22}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/web-security/ssl-certificate-services",
+        "Name":  "ssl-certificate-services",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{2904B303-98EB-4C49-9649-1B0E6996641E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/web-security/website-security/selectplan",
+        "Name":  "selectplan",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{0CE9944E-C51F-4816-8EF2-80E5770CA7B4}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/wordpress-hosting",
+        "Name":  "wordpress-hosting",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{7531D9B2-AE27-4533-AF64-431BF1AC4581}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/gtlds/identitydigital",
+        "Name":  "identitydigital",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{EFAD07E1-7D62-4CE9-B2F3-88EFF1310D4A}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/web-design/web-design-care",
+        "Name":  "web-design-care",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{511E4430-C942-45BC-A716-AE7B98E22E1F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/web-design",
+        "Name":  "web-design",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{FC331CAF-3D9C-4296-84FF-5C8EE679CEA5}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/xero-offer",
+        "Name":  "xero-offer",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{6E4F755E-34F4-4391-B30D-8D1EC44FA84F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domains/premium-domain-names",
+        "Name":  "premium-domain-names",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{CF670B1E-6FA8-452B-9CAC-3F201CD10BA9}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/terminal",
+        "Name":  "terminal",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DAE2D7E0-8F83-4F1B-B5C1-D272D70050CC}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/website-builder/features",
+        "Name":  "features",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{A5BA9FAE-DDC9-4537-97F1-A10AFD1AAE26}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/online-marketing/digital-marketing-suite",
+        "Name":  "digital-marketing-suite",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{CC185859-02A9-4A39-9A54-428817FCA997}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/godaddy-for-good",
+        "Name":  "godaddy-for-good",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{0E135AF3-6716-43F8-990B-4137A7546158}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/restaurants-food",
+        "Name":  "restaurants-food",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{F7ACB2DB-3AC0-4BE3-824D-A72B077FBD2B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/terminal/specs",
+        "Name":  "specs",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{3F6BF023-D9B5-4E01-80D1-C4B2CB685475}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/coming-soon",
+        "Name":  "coming-soon",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{A9C7FD3C-A534-4B0A-AB98-8D4D0BC7A5C6}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates",
+        "Name":  "website-templates",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{335E0563-1155-4516-ACED-6408B9D6688E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/point-of-sale/retail",
+        "Name":  "retail",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{3C4A6E35-369E-44BD-954D-53B00A423B5D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/email/selectplan",
+        "Name":  "selectplan",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{B803CD99-9EA5-4F27-BB2B-78386E4CBB6D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/example-for-testing",
+        "Name":  "example-for-testing",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DF8D7947-0B49-4FBC-97A4-9F9104685558}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/fashion-beauty",
+        "Name":  "fashion-beauty",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{5C0E85BB-8A70-470E-9BC0-2325D627F093}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/made-in-america/season-1",
+        "Name":  "season-1",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{7C797CA9-7D8E-4C03-80FB-AD4D9A9A44B4}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/best-website-builder",
+        "Name":  "best-website-builder",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{8FE0ED4F-8CF2-4386-BCAE-1FB5FAC16FA3}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/best-ecommerce-website-builder",
+        "Name":  "best-ecommerce-website-builder",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{7537A08D-4D44-45B9-B126-06A32FAD6657}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/business/office-365",
+        "Name":  "office-365",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{C33A0B17-2AFC-46F7-A417-62DDE0E833E2}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/point-of-sale",
+        "Name":  "point-of-sale",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{019F9022-73C2-4B2B-8A18-762874F076E8}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/airo/airo-ridingschool",
+        "Name":  "airo-ridingschool",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D532289A-AF70-43AE-BA1D-03FD9DD4D068}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/airo/airo-tubeman",
+        "Name":  "airo-tubeman",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{D43D7FBD-05A7-4C3F-87D6-96CE6A3F55CE}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/logo-maker",
+        "Name":  "logo-maker",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{A8B35D22-1FC8-4FB5-A4F3-7686A41D7153}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/airo/airo-friendship",
+        "Name":  "airo-friendship",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{5BAD84A4-89B2-4F99-B14C-1DF0C53B5EA1}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/godaddy",
+        "Name":  "godaddy",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{97B31A77-F9FF-4F23-AD22-8ECBB026BB6B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/airo/airo-boss",
+        "Name":  "airo-boss",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{B9081883-168F-4C87-9C84-B76420812EF9}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/online-marketing/digital-marketing-services",
+        "Name":  "digital-marketing-services",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DB4BAAB9-8243-4182-A532-7E9A59F26EE1}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/apps/godaddy-app",
+        "Name":  "godaddy-app",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{7068FEF4-3F94-4FBC-8095-B41D1452EC16}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/domain-airo",
+        "Name":  "domain-airo",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{9AA7B2E6-CEEB-4D97-8CDE-EA62099A3CB5}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/trust-center/content",
+        "Name":  "content",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{9C591ABC-B820-4941-B75A-F71762072F2A}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/trust-center/compliance",
+        "Name":  "compliance",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{C3251B94-6E84-4E46-B5E6-1265EB08AE41}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/promos/gift-guide",
+        "Name":  "gift-guide",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{BBDBB069-6CCE-44AA-8993-01CFC3B7BC78}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domains/gtld-domain-names",
+        "Name":  "gtld-domain-names",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{F8392678-1F38-41B3-BEE5-A810199FADB6}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/real-estate",
+        "Name":  "real-estate",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{4D1F6E86-5645-4210-A0EF-E0FA0F2B08D1}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/email/email-backup",
+        "Name":  "email-backup",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{06B796E3-EFEA-4B87-BD3F-A1C1B20F3F4E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/online-store",
+        "Name":  "online-store",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{B01F8865-FD21-4945-8431-B9C4831A0660}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/ssl-checker",
+        "Name":  "ssl-checker",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{242A34DE-F87D-4B8A-88F6-5338CE971270}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/web-security/domain-validation-ssl-certificate",
+        "Name":  "domain-validation-ssl-certificate",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DD3F28B2-189C-4A9A-804E-BB7A57B764F6}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/video-editor",
+        "Name":  "video-editor",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{8F341130-5BEB-4749-B4B0-ABED8E15E8ED}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/web-security/multi-domain-san-ssl-certificate",
+        "Name":  "multi-domain-san-ssl-certificate",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{17834731-B741-4CB9-9377-B2EF8FFC8948}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/promos/renewal-codes",
+        "Name":  "renewal-codes",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{180264DD-FDF4-453F-BEA9-BA3D5608E26D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/corporate-domains",
+        "Name":  "corporate-domains",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{ECC37483-E2A6-403F-800A-BDE12EB577B0}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/email/email-domain-wordpress",
+        "Name":  "email-domain-wordpress",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{F8D8CE83-5A8F-4FD1-BD16-FBE1C8C50064}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/domains/personal-domains",
+        "Name":  "personal-domains",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{99F1F2CE-9269-40FC-9806-A0B51DF28C78}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/pricing/subscription-domain",
+        "Name":  "subscription-domain",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{2B28328E-6F18-4C24-A6DA-88C21AB7478C}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/promos/flash-sale",
+        "Name":  "flash-sale",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{FD103425-13FB-4E01-BA43-DAA71C35814F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/payments/virtual-terminal",
+        "Name":  "virtual-terminal",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{3EE72DDA-6D9C-4DC7-8754-13D48837BC9E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/visit/locations/Cologne",
+        "Name":  "Cologne",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{7788C943-848D-42C3-A1A7-D4F0F8D86D68}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/visit/locations/Belgrade",
+        "Name":  "Belgrade",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{FD4854AA-D75E-42C7-81F0-F5AEF2268576}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/logo-design",
+        "Name":  "logo-design",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{05252E06-657F-451C-97AD-BB73A871357D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/visit/locations/Hiawatha",
+        "Name":  "Hiawatha",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{2218C47B-7DCA-41DF-92A7-9F0F7EFE7A2F}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/visit/locations/Santa-Clara",
+        "Name":  "Santa-Clara",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{58168309-FD4D-4D6E-A6BA-B6B885E32FDA}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/visit/locations/Carlsbad",
+        "Name":  "Carlsbad",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{DED47906-EAC1-40CB-8FAB-F86AA3F6BF68}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/visit/locations/Hayes",
+        "Name":  "Hayes",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{07A90B32-C173-48F2-8490-94351C32F9BD}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/link-in-bio",
+        "Name":  "link-in-bio",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{9642DF3C-1127-4FAF-9668-705BCB1169E3}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/site-search-page",
+        "Name":  "site-search-page",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{B5BAA9DC-FD17-40DF-B40D-E10E1489080B}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/sell",
+        "Name":  "sell",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{BC9B2ED4-09E2-44F3-8E35-1352A963E56E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/web-hosting-plans-and-pricing",
+        "Name":  "web-hosting-plans-and-pricing",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{07987A86-B9CB-40B3-A834-D8A950C67B6D}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/premier-business-support",
+        "Name":  "premier-business-support",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{2962CCCC-D9AB-4092-8E5C-1DA912B924FE}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/subscriptions/domain-bundle",
+        "Name":  "domain-bundle",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{23F78263-30A1-4B48-A550-2D9059C6ADCE}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/website-builder/onboarding",
+        "Name":  "onboarding",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{8FDF5972-D859-45E1-872C-3871F4A31865}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/travel",
+        "Name":  "travel",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{2D3DCFE0-7E38-49FF-BA32-39A61DEC48C0}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/web-design-starter",
+        "Name":  "web-design-starter",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{339CFBCA-62EB-48E6-965C-D5491C15C945}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/email/professional-business-email/selectplan",
+        "Name":  "selectplan",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{ED565D8C-684E-4DA2-AC6A-4A0500B92F65}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/auctions/domain-auctions",
+        "Name":  "domain-auctions",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{99A01CC8-092F-4F77-985A-96ABC32FD68C}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/website-templates/online-store",
+        "Name":  "online-store",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{785EDD99-DA13-4D89-88E0-6525B0D7191E}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/website-builder/features/onboarding",
+        "Name":  "onboarding",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{4C55BEBD-37B9-402F-9BD7-B062029E08F6}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/websites/onboarding",
+        "Name":  "onboarding",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{48B63AF8-71DE-4B7A-8C7F-B03C7681CF5A}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/hosting/fully-managed-vps-hosting",
+        "Name":  "fully-managed-vps-hosting",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    },
+    {
+        "ID":  "{96A547B4-1360-44AA-9857-EB58EC15A4FB}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/offers/business/office-365",
+        "Name":  "office-365",
+        "PageLayout":  "Pattern Library Stacked Header Layout"
+    }
+]

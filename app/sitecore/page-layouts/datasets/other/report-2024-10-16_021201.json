@@ -1,0 +1,20 @@
+[
+    {
+        "ID":  "{9420482E-0D1F-4D89-B9AB-704977503208}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/configure/traffic",
+        "Name":  "traffic",
+        "PageLayout":  "Blank Layout"
+    },
+    {
+        "ID":  "{5238C28D-AD1F-4AC0-B4C4-81425A3ED50C}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/back-to-godaddy",
+        "Name":  "back-to-godaddy",
+        "PageLayout":  "Blank Layout"
+    },
+    {
+        "ID":  "{ED9C59E5-86ED-44C5-A6EF-3A70F89F54CE}",
+        "ItemPath":  "/sitecore/content/GoDaddy/Sales/sitemaps/root",
+        "Name":  "root",
+        "PageLayout":  "Blank Layout"
+    }
+]
