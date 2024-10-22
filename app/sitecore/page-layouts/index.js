@@ -1,8 +1,7 @@
 import * as React from 'react';
 import LineGraph from './graph';
 import Section from '../../common/section';
-import { fetchData } from './data'
-import { fakeData } from './fake-data';
+import { fetchData } from './data';
 
 const cms = 'SITECORE';
 const title = 'PAGE LAYOUTS';

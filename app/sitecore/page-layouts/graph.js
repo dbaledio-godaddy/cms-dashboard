@@ -26,4 +26,4 @@ export default function LineGraph({ data }) {
   const options = {};
 
   return <Line options={ options } data={ data } />;
-};
+}

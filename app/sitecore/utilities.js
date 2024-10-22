@@ -60,4 +60,3 @@ export function pushToArray(array, value) {
 
   return array;
 }
-

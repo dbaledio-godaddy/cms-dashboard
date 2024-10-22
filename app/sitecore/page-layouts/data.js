@@ -29,6 +29,7 @@ const pageLayoutDataModel = {
 export async function fetchData() {
   try {
     const dates = [];
+    const datasets = [];
 
     for (const datasetFolder of datasetFolders) {
       const jsonFiles = await getJsonFiles(`${relativeRootPath}/${datasetFolder}`);
@@ -54,9 +55,10 @@ export async function fetchData() {
       };
 
       // console.log('dataset:', dataset); // debug
-      pageLayoutDataModel.datasets.push(dataset);
+      datasets.push(dataset);
     }
 
+    pageLayoutDataModel.datasets = datasets;
     pageLayoutDataModel.labels = dates;
     // console.log('pageLayoutDataModel:', pageLayoutDataModel); // debug
     return pageLayoutDataModel;
